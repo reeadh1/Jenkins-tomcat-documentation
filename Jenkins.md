@@ -1,3 +1,5 @@
+
+<kbd>![image](https://github.com/reeadh1/Jenkins-tomcat-documentation/blob/6142636a16b78c8a39034d2e76c66479475d06c0/Assets/Picture1.jpg)</kbd>
 # What is Jenkins ?
  
 Jenkins is an open-source automation server used to automate tasks related to building, testing, and deploying software. It supports continuous integration (CI) and continuous delivery (CD) pipelines, allowing developers to frequently and reliably build and deploy their applications.

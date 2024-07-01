@@ -36,20 +36,6 @@ Jenkins is an open-source automation server used to automate tasks related to bu
 
   ## ![table 1](https://github.com/reeadh1/Jenkins-tomcat-documentation/assets/170103658/03f379c6-734b-42d6-8ec9-c9ca0d9d1cc9)
 
-  ## <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal'><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";mso-font-kerning:0pt;mso-ligatures:
-none'>After Jenkins</span></b><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";mso-font-kerning:0pt;mso-ligatures:
-none'><o:p></o:p></span></p>
+ 
 
-
-Aspect | Description
--- | --
-Automated   Integration | Code changes are   automatically integrated, reducing conflicts and streamlining the process.
-Frequent Builds | Automated builds   are triggered frequently, ensuring continuous integration and smaller   changes.
-Automated Testing | Tests are run   automatically, increasing coverage and reliability.
-Automated   Deployment | Deployments are   automated, reducing errors and ensuring consistency across environments.
-High Visibility | Detailed   dashboards and logs provide visibility into the entire CI/CD pipeline.
-Immediate Feedback | Rapid feedback on   code changes allows for quick identification and resolution of issues.
  

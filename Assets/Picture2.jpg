@@ -1,1 +1,9 @@
 
+After Jenkins
+Aspect	Description
+Automated Integration	Code changes are automatically integrated, reducing conflicts and streamlining the process.
+Frequent Builds	Automated builds are triggered frequently, ensuring continuous integration and smaller changes.
+Automated Testing	Tests are run automatically, increasing coverage and reliability.
+Automated Deployment	Deployments are automated, reducing errors and ensuring consistency across environments.
+High Visibility	Detailed dashboards and logs provide visibility into the entire CI/CD pipeline.
+Immediate Feedback	Rapid feedback on code changes allows for quick identification and resolution of issues.
